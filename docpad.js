@@ -51,7 +51,7 @@ module.exports = {
     // Labels which you can translate to other languages
     labels: {
       about: "Sobre",
-      location: "Location",
+      location: "Localização",
       speakers: "Speakers",
       schedule: "Schedule",
       sponsors: "Sponsors",
