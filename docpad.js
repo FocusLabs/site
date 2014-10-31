@@ -53,7 +53,7 @@ module.exports = {
       about: "Sobre",
       location: "Localização",
       speakers: "Palestrantes",
-      schedule: "Schedule",
+      schedule: "Horários",
       sponsors: "Sponsors",
       partners: "Partners",
       contact: "Contact"
