@@ -31,7 +31,7 @@ module.exports = {
     // Site info
     site: {
       theme: "yellow-swan",
-      url: "http://braziljs.github.io/conf-boilerplate/",
+      url: "http://focuslabs.github.io/site",
       googleanalytics: ""
     },
 
