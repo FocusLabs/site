@@ -50,7 +50,7 @@ module.exports = {
 
     // Labels which you can translate to other languages
     labels: {
-      about: "About",
+      about: "Sobre",
       location: "Location",
       speakers: "Speakers",
       schedule: "Schedule",
