@@ -2,10 +2,8 @@ module.exports = {
 
   prompts: false,
 
-  // These are variables will be accessible via our templates
   templateData: {
 
-    // Conference info
     conf: {
       name: "FocusLab",
       description: "Work hard. Don't be an asshole. Share what you know.",
@@ -26,9 +24,9 @@ module.exports = {
     //},
 
     // "Fork me on GitHub", if you don't want this, just remove the forkButton property
-    forkButton: {
-        repository: "https://github.com/danilovaz/focus-lab"
-    },
+    //forkButton: {
+    //    repository: "https://github.com/danilovaz/focus-lab"
+    //},
 
     // Site info
     site: {
