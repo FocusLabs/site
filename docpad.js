@@ -52,7 +52,7 @@ module.exports = {
     labels: {
       about: "Sobre",
       location: "Localização",
-      speakers: "Speakers",
+      speakers: "Palestrantes",
       schedule: "Schedule",
       sponsors: "Sponsors",
       partners: "Partners",
