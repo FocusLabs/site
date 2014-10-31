@@ -54,7 +54,7 @@ module.exports = {
       location: "Localização",
       speakers: "Palestrantes",
       schedule: "Horários",
-      sponsors: "Sponsors",
+      sponsors: "Patrocinadores",
       partners: "Partners",
       contact: "Contact"
     },
