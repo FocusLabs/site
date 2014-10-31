@@ -56,7 +56,7 @@ module.exports = {
       schedule: "Horários",
       sponsors: "Patrocinadores",
       partners: "Parceiros",
-      contact: "Contact"
+      contact: "Contato"
     },
 
     // The entire schedule
